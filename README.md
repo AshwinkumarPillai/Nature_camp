@@ -1,6 +1,6 @@
 # Nature Camp
 
-This project is made using flex-box. It is a simple webpage with an attractive style.a1
+This project is made using flex-box. It is a simple webpage with an attractive style.
 
 ## Tech
 
